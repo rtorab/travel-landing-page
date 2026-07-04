@@ -21,7 +21,7 @@ A responsive travel landing page built with HTML and CSS.
 
 ## Live Demo
 
-https://your-github-pages-link
+https://rtorab.github.io/travel-landing-page/
 
 ## Author
 
