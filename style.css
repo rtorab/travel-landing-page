@@ -107,7 +107,7 @@ header{
 .hero .container{
     display: flex;
     align-items: center;
-    min-height: 600px;
+    min-height: 400px;
     gap: 40px;
 }
 
@@ -166,7 +166,7 @@ header{
 }
 
 .hero-img img{
-    max-width: 100%;
+    max-width: 90%;
     height: auto;
     border-radius: 20px;
     box-shadow: var(--shadow-sm);

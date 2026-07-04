@@ -19,6 +19,10 @@ A responsive travel landing page built with HTML and CSS.
 - Flexbox
 - CSS Grid
 
+## Screenshot
+
+![Travel Landing Page](images/screenshot.jpg)
+
 ## Live Demo
 
 https://rtorab.github.io/travel-landing-page/
