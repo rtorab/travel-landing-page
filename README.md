@@ -1,6 +1,6 @@
 # Travel Landing Page
 
-A responsive travel landing page built with HTML and CSS.
+A modern and responsive travel landing page built with HTML and CSS. The project focuses on clean layout design, responsive techniques, and reusable CSS architecture.
 
 ## Features
 
@@ -19,14 +19,17 @@ A responsive travel landing page built with HTML and CSS.
 - Flexbox
 - CSS Grid
 
-## Screenshot
-
-![Travel Landing Page](images/screenshot.jpg)
-
 ## Live Demo
 
 https://rtorab.github.io/travel-landing-page/
 
+## Screenshot
+
+![Travel Landing Page](images/screenshot.jpg)
+
 ## Author
 
 Reyhaneh Torab
+
+- GitHub: https://github.com/rtorab
+- LinkedIn: https://www.linkedin.com/in/reyhaneh-torab-4709a8193
