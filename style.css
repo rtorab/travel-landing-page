@@ -1,6 +1,6 @@
 /* Reset */
 :root{
-    --primary:#2ecc71;
+    --primary:#22c55e;
     --primary-dark:#27ae60;
     --dark:#2c3e50;
     --text:#222;
@@ -132,7 +132,8 @@ header{
 }
 
 .hero-buttons button{
-    padding: 10px 20px;
+    padding: 14px 28px;
+    font-weight: 600;
     border-radius: 20px;
     transition: background-color .3s ease;
     cursor: pointer;
@@ -166,7 +167,7 @@ header{
 }
 
 .hero-img img{
-    max-width: 90%;
+    max-width: 85%;
     height: auto;
     border-radius: 20px;
     box-shadow: var(--shadow-sm);
